@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Pipeline fixed and running!");
+        System.out.println("Final auto build!");
     }
 }
